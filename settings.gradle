@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Calculadora_PDM_2020_2"
